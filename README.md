@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **Lucas LAMOTHE**.
+- 👨‍💻 I’m actually in 3rd year at Epitech Technology.
+- 🌱 I’m currently learning _IT_, _innovation_ and _entrepreneurship_.
+- 💞️ My favorites technologies : Typescript, React and React Native.
+- 📫 How to reach me ? **lucas@lamothe.eu**
