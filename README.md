@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning IT, innovation and entrepreneurship.
 - 💞️ My favorites technologies : Typescript, React and React Native.
 - 📫 How to reach me ? **lucas@lamothe.eu**
+
+## Badge Board
+
+[![@lucaslmth's Holopin board](https://holopin.me/lucaslmth)](https://holopin.io/@lucaslmth)
