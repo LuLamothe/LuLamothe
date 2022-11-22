@@ -7,4 +7,4 @@
 
 ## Badge Board
 
-[![@lucaslmth's Holopin board](https://holopin.me/lucaslmth)](https://holopin.io/@lucaslmth)
+[![@lulmth's Holopin board](https://holopin.me/lulmth)](https://holopin.io/@lulmth)
