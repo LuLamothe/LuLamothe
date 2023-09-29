@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Lucas LAMOTHE**.
-- 👨‍💻 I’m actually in 4rd year at Epitech Technology.
-- 🇨🇦 I studying at the University of Laval (Québec, CANADA) during 8 months.
+- 👨‍💻 I’m actually in 5rd year at Epitech Bordeaux.
+- 🇨🇦 I studied for a year at Laval University (Québec, CANADA), where I obtained a certificate in Information of Technology.
 - 🌱 I’m currently learning IT, innovation and entrepreneurship.
-- 💞️ My favorites technologies : Typescript, React and React Native.
+- 💞️ My favorites technologies : Typescript, SvelteKIt and Go.
 - 📫 How to reach me ? **lucas@lamothe.eu**
 
 ## Badge Board
