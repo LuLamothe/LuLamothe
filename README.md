@@ -2,7 +2,7 @@
 - 👨‍💻 I’m actually in 5rd year at Epitech Bordeaux.
 - 🇨🇦 I studied for a year at Laval University (Québec, CANADA), where I obtained a certificate in Information of Technology.
 - 🌱 I’m currently learning IT, innovation and entrepreneurship.
-- 💞️ My favorites technologies : Typescript, SvelteKIt and Go.
+- 💞️ My favorites technologies : C# (ASP.NET), Typescript (Svelte and React).
 - 📫 How to reach me ? **lucas@lamothe.eu**
 
 ## Badge Board
