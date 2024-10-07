@@ -1,11 +1,6 @@
 - 👋 Hi, I’m **Lucas LAMOTHE**.
-- 👨‍💻 I’m actually in 5rd year at Epitech Bordeaux.
-- 🎰 I'm software engineer intern at Betclic Group in Bordeaux.
-- 🇨🇦 I studied for a year at Laval University (Québec, CANADA), where I obtained a certificate in Information of Technology.
+- 🎰 Actually, I'm software engineer at Betclic Group in Bordeaux.
+- 🎓 I studied at [Epitech](https://international.epitech.eu) where I qualified as an IT expert in 2024.
+- 🇨🇦 I studied for a year at [Laval University](https://www.ulaval.ca) (in Québec, CANADA), where I obtained a certificate in IT.
 - 🌱 I’m currently learning IT, innovation and entrepreneurship.
-- 💞️ My favorites technologies : C# (ASP.NET), Typescript (Svelte and React).
 - 📫 How to reach me ? **lucas@lamothe.eu**
-
-## Badge Board
-
-[![@lulmth's Holopin board](https://holopin.me/lulmth)](https://holopin.io/@lulmth)
